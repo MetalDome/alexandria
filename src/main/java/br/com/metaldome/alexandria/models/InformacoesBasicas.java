@@ -1,6 +1,6 @@
-package Servico;
+package br.com.metaldome.alexandria.models;
 
-import Enum.StatusAtual;
+import br.com.metaldome.alexandria.enums.StatusAtual;
 
 public class InformacoesBasicas {
 
