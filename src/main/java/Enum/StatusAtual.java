@@ -1,4 +1,4 @@
-package br.com.metaldome.alexandria;
+package Enum;
 
 public enum StatusAtual {
 

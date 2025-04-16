@@ -1,4 +1,6 @@
-package br.com.metaldome.alexandria;
+package Servico;
+
+import Enum.StatusAtual;
 
 public class InformacoesBasicas {
 
