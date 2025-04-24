@@ -1,6 +1,6 @@
 package br.com.metaldome.alexandria.models;
 
-import br.com.metaldome.alexandria.enums.TipoArquitetura;
+import br.com.metaldome.alexandria.enums.AutenticacaoUsada;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 
-public class ArquiteturaDeProjeto {
-    private String motivo;
-    private TipoArquitetura tipoArquitetura;
+public class Seguranca {
+
+    private AutenticacaoUsada autenticacaoUsada;
 
 }

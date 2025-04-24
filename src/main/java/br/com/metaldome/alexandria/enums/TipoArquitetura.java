@@ -1,6 +1,6 @@
 package br.com.metaldome.alexandria.enums;
 
-public enum Tipo {
+public enum TipoArquitetura {
     MONOLITO,
     MICROSSERVICOS,
     CLEAN,
