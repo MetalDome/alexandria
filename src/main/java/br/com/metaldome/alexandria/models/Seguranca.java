@@ -12,5 +12,6 @@ import lombok.NoArgsConstructor;
 public class Seguranca {
 
     private AutenticacaoUsada autenticacaoUsada;
+    private boolean possui;
 
 }
