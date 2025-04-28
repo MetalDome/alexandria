@@ -12,5 +12,5 @@ import lombok.NoArgsConstructor;
 public class DesignPattern {
     private String motivo;
     private TipoDesign tipoDesign;
-    private boolean possui;
+    private boolean usaDesign;
 }

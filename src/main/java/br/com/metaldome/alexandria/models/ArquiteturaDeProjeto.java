@@ -12,6 +12,6 @@ import lombok.NoArgsConstructor;
 public class ArquiteturaDeProjeto {
     private String motivo;
     private TipoArquitetura tipoArquitetura;
-    private boolean possui;
+    private boolean usaArquitetura;
 
 }

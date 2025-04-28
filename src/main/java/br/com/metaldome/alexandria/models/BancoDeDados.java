@@ -13,6 +13,6 @@ import lombok.NoArgsConstructor;
 public class BancoDeDados {
     private TipoDb tipoDb;
     private SistemaGerenciadorDb sistemaGerenciadorDb;
-    private boolean possui;
+    private boolean usaDB;
 
 }
